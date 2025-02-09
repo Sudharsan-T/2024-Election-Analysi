@@ -1,6 +1,6 @@
 # **Election Analysis Dashboard**
 
-### **Dashboard Link**: [Insert Power BI Link]
+### **Dashboard Link**: [Click Here](https://app.powerbi.com/view?r=eyJrIjoiZDM3NTY0MTgtN2JhZi00NWI2LWI5ZDUtY2JlNDM3OTc3ZjEwIiwidCI6IjFjNmQwOGQ3LTA2NGMtNDdiNC1hODgwLWRlYmZhNjk4YWVlOCJ9&pageName=dbd5ae3babe03628ac74)
 
 ## **Problem Statement**
 
