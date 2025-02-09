@@ -16,6 +16,7 @@ Since the NDA alliance secured a **majority** with **292 seats (54%)**, while th
 ### **Steps Followed**
 
 - **Step 1**: Load election results data into Power BI Desktop (Dataset: CSV file).
+![Image](https://github.com/user-attachments/assets/7db221f2-a687-46f4-aa05-3184fd7c8c50)
 - **Step 2**: Open Power Query Editor & enable **column distribution, column quality, and column profile** in the View tab.
 - **Step 3**: Change **column profiling to analyze the entire dataset**.
 - **Step 4**: Ensure **no missing values** except for a few constituencies where vote margin data was unavailable.
@@ -59,7 +60,11 @@ Since the NDA alliance secured a **majority** with **292 seats (54%)**, while th
 
 # **Snapshot of Dashboard (Power BI Service)**
 
-![Insert Dashboard Screenshot]
+![Image](https://github.com/user-attachments/assets/c63117af-eed9-43d4-a5c4-9800c339cb36)
+![Image](https://github.com/user-attachments/assets/736aeb20-c718-4973-84e6-974cef3b5538)
+![Image](https://github.com/user-attachments/assets/7b67978d-dce1-48fc-8415-b423babc9d49)
+![Image](https://github.com/user-attachments/assets/0c8ad7ec-cdfb-49fc-8452-2b6b883d965b)
+![Image](https://github.com/user-attachments/assets/d49df3b7-3904-44cf-9c43-322ad4fedbef)
 
 # **Insights**
 
