@@ -118,6 +118,7 @@ A multi-page report was created on Power BI Desktop and then published to Power 
 
 This Power BI dashboard provides a **comprehensive and interactive** analysis of the **2024 Indian General Elections**, allowing users to explore election outcomes at multiple levels. The insights gained can help political analysts, media, and policymakers **understand voting patterns, party strengths, and regional preferences**.
 
-**Published by**: [Your Name]  
-**Date**: [Insert Date]
+## **Published by**:Sudharsan T
+
+## **Date**:09-02-2024
 
